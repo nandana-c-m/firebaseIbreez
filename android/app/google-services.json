@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260235287743",
+    "project_id": "fir-ibreez",
+    "storage_bucket": "fir-ibreez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260235287743:android:3a0e51293573f91d0aba0a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ibreez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7SmhQRRwETRp9cc2o_It8fAFYLouHOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
